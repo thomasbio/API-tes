@@ -6,7 +6,8 @@ Description du projet
 
 Tous les producteurs
 
-
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
