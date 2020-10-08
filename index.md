@@ -6,7 +6,7 @@ Description du projet
 
 Tous les producteurs
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/shutterstock_141643201 - low.jpg)
 Format: ![Alt Text](url)
 
 
